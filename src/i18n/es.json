@@ -1,0 +1,32 @@
+{
+  "app.name": "Calculadora de Valor Laboral",
+  "hero.title": "Sabé cuánto vale tu trabajo",
+  "hero.subtitle": "Calculá el valor de tu hora según tu salario, tus días laborales y tu horario.",
+  "summary.label": "Valor por hora",
+  "summary.perMonth": "/ mes",
+  "summary.hours": "h",
+  "summary.days": "días",
+  "controls.title": "Configuración",
+  "controls.salary": "Salario mensual",
+  "controls.daysInMonth": "Días del mes",
+  "controls.daysOption": "{n} días",
+  "controls.selectPlaceholder": "Seleccionar",
+  "controls.workHours": "Horario laboral",
+  "controls.startTime": "Entrada",
+  "controls.endTime": "Salida",
+  "controls.workingDays": "Días laborales",
+  "controls.reset": "Reiniciar configuración",
+  "calendar.title": "Calendario mensual",
+  "calendar.subtitle": "Hacé clic en un día para cambiar su estado",
+  "calendar.totalDays": "{n} días",
+  "page.title": "WorkValue Calculator",
+  "dayAbbrev": {
+    "monday": "Lun",
+    "tuesday": "Mar",
+    "wednesday": "Mie",
+    "thursday": "Jue",
+    "friday": "Vie",
+    "saturday": "Sab",
+    "sunday": "Dom"
+  }
+}

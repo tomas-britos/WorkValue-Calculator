@@ -1,0 +1,32 @@
+{
+  "app.name": "Work Value Calculator",
+  "hero.title": "Know what your work is worth",
+  "hero.subtitle": "Calculate the value of your time based on your salary, workdays, and schedule.",
+  "summary.label": "Value per hour",
+  "summary.perMonth": "/ month",
+  "summary.hours": "h",
+  "summary.days": "days",
+  "controls.title": "Settings",
+  "controls.salary": "Monthly salary",
+  "controls.daysInMonth": "Days per month",
+  "controls.daysOption": "{n} days",
+  "controls.selectPlaceholder": "Select",
+  "controls.workHours": "Work hours",
+  "controls.startTime": "Start",
+  "controls.endTime": "End",
+  "controls.workingDays": "Working days",
+  "controls.reset": "Reset settings",
+  "calendar.title": "Monthly calendar",
+  "calendar.subtitle": "Click a day to change its status",
+  "calendar.totalDays": "{n} days",
+  "page.title": "WorkValue Calculator",
+  "dayAbbrev": {
+    "monday": "Mon",
+    "tuesday": "Tue",
+    "wednesday": "Wed",
+    "thursday": "Thu",
+    "friday": "Fri",
+    "saturday": "Sat",
+    "sunday": "Sun"
+  }
+}

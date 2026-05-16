@@ -14,6 +14,40 @@
   width: min(1180px, 100%);
   margin: 0 auto;
   padding: 48px 24px 64px;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.site-footer {
+  margin-top: auto;
+  padding: 32px 0 16px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-links {
+  display: flex;
+  gap: 20px;
+}
+
+.footer-links a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  color: #6a5a4a;
+  background: rgba(255, 255, 255, 0.5);
+  border: 1px solid rgba(28, 24, 31, 0.08);
+  transition: background 200ms ease, color 200ms ease, transform 200ms ease;
+}
+
+.footer-links a:hover {
+  background: rgba(222, 154, 48, 0.12);
+  color: #8d3f20;
+  transform: translateY(-2px);
 }
 
 .hero {
